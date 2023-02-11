@@ -11,6 +11,7 @@ body{
     margin: 0 auto;
 
 }
+
 .Introduction ul{
     display:flex;
     flex-direction:row;
@@ -19,7 +20,9 @@ body{
     text-decoration:none;
     list-style-type: none;
     color: turquoise;
+
 }
+
 .navlink{
     list-style-type: none;
     text-decoration: none;
@@ -30,25 +33,32 @@ body{
 .koko{
     color: gray;
     text-decoration: none;
-}
 
+}
 
 .image-containerA{
     border: 1px;
     display: grid;
+
 }
+
 .Docplanner logo img{
     margin:inline auto;
+
 }
+
 h1{
     letter-spacing: 2px;
     font-weight:normal;
     color: turquoise;
     text-align: center;
 }
+
 .two{
     text-align: center;
+
 }
+
 .health center{
    display: flex;
    float: left;
@@ -56,19 +66,25 @@ h1{
    width: 960px;
    margin: 0 auto;
    text-align: center;
+
 }
+
 .health{ 
     width: 480px;
     float: left;
     background-color: azure;
     margin: 10px; 
+
 }
+
 .wealth{
     width: 480px;
     float: left;
     background-color: azure;
     margin: 10px;
+
 }
+
 .flex containerA{
     display: flex;
     gap:2rem;
@@ -76,11 +92,15 @@ h1{
     height:200px;
     background-color:rgba(19,179,112);
     justify-content: space-around;
+
 }
+
 .flexbox container p{
     color: white;
     margin: 30px;
+
 }
+
 .icon1{
     color: white;
     background-color: rgb(0, 128, 124);
@@ -96,6 +116,7 @@ h1{
     max-width: 20%;
     max-height: 20%;
 }
+
 .icon2{
     color: white;
     background-color: rgb(0, 47, 128);
@@ -108,10 +129,13 @@ h1{
     gap: 20px;
 
 }    
+
 .professional-doctors{
     max-width: 20%;
     max-height: 20%;
+
 }
+
 .icon3{
     color: white;
     background-color:black;
@@ -122,22 +146,29 @@ h1{
     padding: 2rem;
     float: left;
     gap: 20px;
+
 }   
 
 .clinic-matters{
     max-width: 20%;
     max-height: 20%;
+
 }
+
 span{
     font-size:xx-large
 }
+
 .count{
     text-decoration: underline;
 }
+
 .flexbox containerB{
     display: flex;
     align-items: left;
+
 }
+
 .lowerp{
     display: flex; 
     gap: 30px; 
@@ -150,10 +181,12 @@ span{
     font-weight: lighter;
     line-height: 35px;
     margin-top: 0%;
+
 }
 
 .footerlogos{
     line-height: 50px;
+
 }
 
 h2{
@@ -161,7 +194,9 @@ h2{
     font-weight: normal;
     color: turquoise;
     text-align: left;
+
 }
+
 .www world{
     display: flex;
     gap:2rem;
@@ -171,30 +206,40 @@ h2{
     justify-content: space-around;
 
 }
+
 .world1 p{
    font-size:small;
    font-weight: lighter;
    text-align: left;
+
 }
+
 .image containerB{
     border: 1px;
     display: grid;
+
 }
+
 .extention{
     text-align: center;
+
 }
+
 .gallery{
     content:normal;
     clear:both;
     display:table;
     width: 100%;
     height: auto;
+
 }
+
 .picture{
     float:left;
     width:30.33%;
     gap: 2rem;
     margin: 15px;
+
 }
 
   .desc{
@@ -204,7 +249,9 @@ h2{
     background-color: hsla(0, 0%, 0.48);
     text-align: auto;
     height:var(--move);
+
   }
+
 .btn{
     display:flex;
     font-size: 10px;
@@ -213,13 +260,11 @@ h2{
     background-color:blue;
     margin-left: auto;
 
-  }
-.register{
-
-  }
+}
 .join{
     text-align: center;
-  }
+}
+
 .press{
     display:flex;
     text-align: center;
@@ -241,7 +286,10 @@ h2{
     align-items: center;
     color: white;
     background-color: blue;
+
+
 }
+
 .footer{
     position: static;
     left: 0;
@@ -251,9 +299,12 @@ h2{
     background-color:aliceblue;
     color:gray;
     text-align: center;
+    
 }
+
 .manyc{
     text-decoration: none;
+
 }
 
 .parent{
@@ -268,6 +319,7 @@ h2{
 
 #left{
     line-height: 30px; 
+
 }
 
 #platform{
@@ -275,10 +327,13 @@ h2{
     font-size: 38px;
     line-height: 40px;
     margin-top: 0px;
+
 }
+
 #para{
     padding: 40px;
     margin-top: -70px; 
+
 }
 
 .right{
@@ -287,6 +342,7 @@ h2{
       margin-bottom:auto;
       
 }
+
 .stepone{
     padding: 10px;
     line-height: 25px;
@@ -295,13 +351,15 @@ h2{
     row-gap: 30px;
 
 }
+
 .flag{
     border:2px solid aliceblue;
     flex-direction: row;
     text-align: center;
-    width: 230px;
+    width: 260px;
     height: 255px;
-    background-color: antiquewhite;
+    background-color: white;
+
 }
     
 .patients{
@@ -310,15 +368,17 @@ h2{
     text-align: center;
     width: 230px;
     height: 240px;
-    background-color: antiquewhite;
+    background-color: white;
+
 }
+
 .steptwo{
     padding: 10px;
     line-height: 25px;
     border-radius: 10px;
     display:grid;
     row-gap: 30px;
-   
+
 }
 
 .visits{
@@ -327,16 +387,20 @@ h2{
     text-align: center;
     width: 220px;
     height: 290px;
-    background-color: antiquewhite;
+    background-color: white;
+
 }
+
 .doctors{
     border:2px solid aliceblue;
     flex-direction: row;
     text-align: center;
     width: 220px;
     height: 250px;
-    background-color: antiquewhite;
+    background-color: white;
+
 }
+
 .listings{
     font-size: small;
 }
